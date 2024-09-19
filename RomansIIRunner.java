@@ -1,8 +1,8 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
-//Name -
+//Name - Vikram Raju
 
-public class RomansRunner
+public class RomansIIRunner
 {
 	public static void main( String args[] )
 	{
